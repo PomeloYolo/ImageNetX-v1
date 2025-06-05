@@ -1,0 +1,75 @@
+# 🖼 ImageNetX Image Dataset Collection Project
+
+Welcome to the **ImageNetX Training Project**!  
+We're building a free, open-source object detection model using YOLO.  
+✨ But we need **your images** to make it better!
+
+---
+
+## 🎯 Project Goals
+
+- Build a diverse and open image dataset
+- Train YOLO models for various object classes
+- Publish the models freely (Colab + GitHub + Hugging Face)
+
+---
+
+## 📸 What Kind of Images?
+
+- **Topics**: Animals, Plants
+- **Formats**: JPG, PNG
+- **Recommended Size**: 640x480 or larger (any size accepted)
+- **Quantity**: 1 image is welcome, 100 is awesome!
+
+---
+
+## 📂 How to Contribute
+
+### ✅ Option 1: GitHub Pull Request (Recommended)
+
+1. Fork this repository  
+2. Create folder: `images/your_name/`  
+3. Upload your images (optional `.txt` labels)  
+4. Submit a Pull Request
+
+### 📨 Option 2: Form Submission (anonymous OK)
+
+👉 [Click here to upload](https://your-upload-form-link.com) (mobile-friendly)
+
+---
+
+## 🏆 Contributor Rewards
+
+| Level        | Requirement                          | Rewards |
+|--------------|---------------------------------------|---------|
+| 🥉 Contributor | Submit 5+ images                     | - Listed in `contributors.md`<br>- Early access to models |
+| 🥈 Core Member | Submit 20+ images                    | - Digital badge (GitHub or site)<br>- Named on model page |
+| 🥇 Top Supporter | 50+ images or complete dataset     | - Digital thank-you card<br>- Credited as co-trainer |
+
+---
+
+## 🔧 YOLOv8 Training Notebook
+
+🚀 [Open on Colab](https://colab.research.google.com/your-notebook-link)
+
+---
+
+## 🧾 Data License
+
+- Only submit images you own or are public domain (e.g., CC0)
+- All contributions licensed under **CC BY 4.0**
+
+---
+
+## 🧑‍🤝‍🧑 Thanks to Our Contributors
+
+See [contributors.md](./contributors.md) ❤️  
+We update the list regularly!
+
+---
+
+## 💬 Contact Us
+
+- GitHub Issues / PRs
+- Email: pomelo.yolo@gmail.com
+- Discord server: 📎 Coming soon
