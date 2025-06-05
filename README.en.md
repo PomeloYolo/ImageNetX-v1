@@ -72,4 +72,4 @@ We update the list regularly!
 
 - GitHub Issues / PRs
 - Email: pomelo.yolo@gmail.com
-- Discord server: 
+- Discord server: [加入我們](https://discord.gg/xcVGpGgv)
