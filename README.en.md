@@ -1,4 +1,4 @@
-# 🖼 ImageNetX Image Dataset Collection Project
+# ImageNetX Image Dataset Collection Project
 
 Welcome to the **ImageNetX Training Project**!  
 We're building a free, open-source object detection model using YOLO.  
@@ -50,7 +50,7 @@ We're building a free, open-source object detection model using YOLO.
 
 ## 🔧 YOLOv8 Training Notebook
 
-🚀 [Open on Colab](https://colab.research.google.com/your-notebook-link)
+🚀 [Open on Colab](https://colab.research.google.com/your-notebook-link](https://colab.research.google.com/drive/18wxL2BKlSwYKa0jZhZQcZHR-aqaVb47f?usp=sharing)
 
 ---
 
@@ -72,4 +72,4 @@ We update the list regularly!
 
 - GitHub Issues / PRs
 - Email: pomelo.yolo@gmail.com
-- Discord server: 📎 Coming soon
+- Discord server: 
