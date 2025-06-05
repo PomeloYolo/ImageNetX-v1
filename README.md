@@ -46,7 +46,7 @@
 
 ## 🔧 Colab 訓練腳本（YOLOv8）
 
-🚀 [開啟 Colab]([https://colab.research.google.com/drive/your-colab-link](https://colab.research.google.com/drive/18wxL2BKlSwYKa0jZhZQcZHR-aqaVb47f?usp=sharing)
+🚀 [開啟 Colab](https://colab.research.google.com/drive/your-colab-link](https://colab.research.google.com/drive/18wxL2BKlSwYKa0jZhZQcZHR-aqaVb47f?usp=sharing)
 
 ---
 
