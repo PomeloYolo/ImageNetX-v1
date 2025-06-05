@@ -68,7 +68,7 @@
 
 - GitHub issue / PR
 - Email: pomelo.yolo@gmail.com
-- Discord 社群：[加入我們](https://your-discord-link)
+- Discord 社群：[加入我們]((https://discord.gg/xcVGpGgv))
 
 ---
 
