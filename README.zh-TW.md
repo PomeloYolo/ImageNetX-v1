@@ -30,7 +30,7 @@
 4. 提交 Pull Request
 
 ### 選項 2：表單投稿（匿名也可以）
-👉 [點這裡上傳圖片](https://yourwebsite.com/upload) （支援手機操作）
+👉 [點這裡上傳圖片](https://tally.so/r/mKNlNV) （支援手機操作）
 
 ---
 
