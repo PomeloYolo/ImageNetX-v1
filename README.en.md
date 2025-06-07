@@ -34,7 +34,7 @@ We're building a free, open-source object detection model using YOLO.
 
 ### 📨 Option 2: Form Submission (anonymous OK)
 
-👉 [Click here to upload](https://your-upload-form-link.com) (mobile-friendly)
+👉 [Click here to upload](https://tally.so/r/mKNlNV) (mobile-friendly)
 
 ---
 
