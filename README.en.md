@@ -28,11 +28,11 @@ We're building a free, open-source object detection model using YOLO.
 ### ✅ Option 1: GitHub Pull Request (Recommended)
 
 1. Fork this repository  
-2. Create folder: `images/your_name/`  
+2. Open folder: `images`and create a folder `with your name`
 3. Upload your images (optional `.txt` labels)  
 4. Submit a Pull Request
 
-### 📨 Option 2: Form Submission (anonymous OK)
+### 📨 Option 2: Form Submission
 
 👉 [Click here to upload](https://tally.so/r/mKNlNV) (mobile-friendly)
 
