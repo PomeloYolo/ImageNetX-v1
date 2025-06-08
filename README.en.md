@@ -50,7 +50,7 @@ We're building a free, open-source object detection model using YOLO.
 
 ## 🔧 YOLOv8 Training Notebook
 
-🚀 [Open on Colab](https://colab.research.google.com/your-notebook-link](https://colab.research.google.com/drive/18wxL2BKlSwYKa0jZhZQcZHR-aqaVb47f?usp=sharing)
+🚀 [Open on Colab](https://colab.research.google.com/drive/18wxL2BKlSwYKa0jZhZQcZHR-aqaVb47f?usp=sharing)
 
 ---
 
