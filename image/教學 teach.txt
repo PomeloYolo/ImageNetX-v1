@@ -1,0 +1,3 @@
+請將圖片上傳至本資料夾，並以您的 "github帳戶名稱" 命名您上傳的圖片
+
+Please upload your images to this folder and name them after your "github account name"
