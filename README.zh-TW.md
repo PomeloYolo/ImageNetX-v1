@@ -69,6 +69,6 @@
 - 官方網站: https://imagenetx-v1-web.onrender.com
 - GitHub issue / PR
 - Email: pomelo.yolo@gmail.com
-- Discord 社群：[加入我們](https://discord.gg/xcVGpGgv)
+- Discord 社群：[加入我們](https://discord.gg/hmFdSSUTXG)
 
 ---
